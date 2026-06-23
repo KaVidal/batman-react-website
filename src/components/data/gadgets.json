@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Batarang",
+    "description": "A bat-shaped throwing weapon.",
+    "image": "batarang.jpg"
+  },
+  {
+    "name": "Batmobile",
+    "description": "Batman's advanced combat vehicle.",
+    "image": "batmobile.jpg"
+  },
+  {
+    "name": "Grapple Gun",
+    "description": "Used for fast rooftop movement.",
+    "image": "grapple-gun.jpg"
+  }
+]

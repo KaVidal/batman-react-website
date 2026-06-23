@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Batman",
+    "realName": "Bruce Wayne",
+    "role": "Protector of Gotham",
+    "image": "batman.jpg"
+  },
+  {
+    "name": "Robin",
+    "realName": "Dick Grayson",
+    "role": "Batman's Sidekick",
+    "image": "robin.jpg"
+  },
+  {
+    "name": "Alfred",
+    "realName": "Alfred Pennyworth",
+    "role": "Butler and Mentor",
+    "image": "alfred.jpg"
+  }
+]

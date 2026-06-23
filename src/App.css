@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0f0f0f;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    width: 90%;
+    margin: 3em auto;
+}
+
+main h2{
+    text-align: center;
+    margin-bottom: 1em;
+    color: #f5c518;
+}
+
+.gallery{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #1a1a1a;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+    text-align: center;
+}
+
+.card img{
+    width: 100%;
+    height: 40vh;
+    object-fit: fill;
+    border-radius: 1em;
+}
+
+.card h3{
+    margin: 1em 0;
+    color: #f5c518;
+}
+
+.intro{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.intro img{
+    width: 45%;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 1em;
+}
+
+.intro-text{
+    width: 45%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 3%;
+}
+
+.intro-text p{
+    margin-bottom: 1em;
+    line-height: 1.7;
+}
+
+.video-section{
+    width: 90%;
+    margin: 0 auto 4em auto;
+    text-align: center;
+}
+
+.video-box{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 1em;
+}
+
+.video-box iframe{
+    width: 100%;
+    height: 30vh;
+}

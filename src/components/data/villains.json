@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Joker",
+    "type": "Villain",
+    "description": "Batman's greatest enemy.",
+    "image": "joker.jpg"
+  },
+  {
+    "name": "Riddler",
+    "type": "Villain",
+    "description": "Obsessed with puzzles and riddles.",
+    "image": "riddler.jpeg"
+  },
+  {
+    "name": "Mr. Freeze",
+    "type": "Villain",
+    "description": "Uses cryogenic technology to freeze Gotham.",
+    "image": "freeze.jpg"
+  }
+]

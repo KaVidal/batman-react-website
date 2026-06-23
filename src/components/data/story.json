@@ -1,0 +1,17 @@
+[
+  {
+    "title": "The Tragedy",
+    "image": "the-tragedy.png",
+    "description": "Bruce Wayne witnessed his parents' murder in Crime Alley, shaping his path toward justice."
+  },
+  {
+    "title": "The Training",
+    "image": "the-training.jpg",
+    "description": "Bruce traveled the world, mastering martial arts, detective skills, and science to fight crime."
+  },
+  {
+    "title": "Becoming Batman",
+    "image": "becoming-batman.avif",
+    "description": "Returning to Gotham, Bruce adopted the identity of Batman to instill fear in criminals."
+  }
+]
